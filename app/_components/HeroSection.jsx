@@ -35,7 +35,7 @@ export default function HeroSection() {
                 <HoverCard>
                   <HoverCardTrigger>
                     <Link
-                      href="https://drive.google.com/file/d/18E6jHv1nTXBdvqJ5SO4LC_-aoERZx9OG/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1OgFZaaB6hEC_rqUDrXNIyzFhKVcSwnYw/view?usp=drive_link"
                       className="px-6 h-11"
                     >
                       <Button>Visit Resume</Button>
@@ -46,7 +46,7 @@ export default function HeroSection() {
                   </HoverCardContent>
                 </HoverCard>
 
-                <a href="/Mastering_Kanji_1500.pdf" download="JaySagarResume">
+                <a href="/JaySagar15_02_2001.pdf" download="JaySagarResume">
                   <Button variant="outline">Download Resume</Button>
                 </a>
               </div>
