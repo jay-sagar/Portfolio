@@ -124,7 +124,9 @@ export default function HeroSection() {
                   <span className="font-semibold text-gray-800 text-lg">
                     Problem Solving
                   </span>
+                  <Link href="https://leetcode.com/u/JaySagar/">
                   <Button variant="outline" className="bg-blue-500 mx-4 size-min">LeetCode</Button>
+                  </Link>
                   <p className="text-gray-700 ">
                     Solved more than 130+ questions. Demonstrating my problem solving skills
                   </p>
