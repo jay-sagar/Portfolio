@@ -35,7 +35,7 @@ export default function HeroSection() {
                 <HoverCard>
                   <HoverCardTrigger>
                     <Link
-                      href="https://drive.google.com/file/d/1OgFZaaB6hEC_rqUDrXNIyzFhKVcSwnYw/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1hhJ4A4wbFHtrARUiFHi8g0nv1_8KRtKE/view?usp=sharing"
                       className="px-6 h-11"
                     >
                       <Button>Visit Resume</Button>
