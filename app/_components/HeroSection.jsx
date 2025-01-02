@@ -31,29 +31,15 @@ export default function HeroSection() {
                 <p>
                 Committed to continuous learning, I aim to contribute to impactful projects and drive innovation in the tech industry.                </p>
               </div>
-              <div className="flex justify-center lg:justify-start">
-                <HoverCard>
-                  <HoverCardTrigger>
-                    <Link
-                      href="https://drive.google.com/file/d/1hhJ4A4wbFHtrARUiFHi8g0nv1_8KRtKE/view?usp=sharing"
-                      className="px-6 h-11"
-                    >
-                      <Button>Visit Resume</Button>
-                    </Link>
-                  </HoverCardTrigger>
-                  <HoverCardContent>
-                   Resume in drive is always up to date
-                  </HoverCardContent>
-                </HoverCard>
-
+              <div className="flex justify-center">
                 <a href="/JaySagar15_02_2001.pdf" download="JaySagarResume">
-                  <Button variant="outline">Download Resume</Button>
+                  <Button variant="outline" className="flex justify-center">Download Resume</Button>
                 </a>
               </div>
               <div className="flex justify-center">
                 <div>
                   <h2 className="text-xl md:text-2xl font-display font-semiboldtext-gray-800 ">
-                    +10
+                    +20
                   </h2>
                   <span className="text-gray-600">Projects</span>
                 </div>
@@ -97,7 +83,7 @@ export default function HeroSection() {
                     Technical Skills
                   </span>
                   <p className="text-gray-700 ">
-                  JavaScript, Java, Next.js, React.js, PostgreSQL, Drizzle, MongoDB, Mongoose, Node.js, Express.js, HTML, CSS
+                  JavaScript, Java 1.7, Java 1.8, SpringBoot, Next.js, React.js, PostgreSQL, MySQL, MongoDB, Node.js, Express.js, HTML, CSS, Redis, Kafka, AWS and Docker.
                   </p>
                 </div>
               </div>
@@ -128,7 +114,7 @@ export default function HeroSection() {
                   <Button variant="outline" className="bg-blue-500 mx-4 size-min">LeetCode</Button>
                   </Link>
                   <p className="text-gray-700 ">
-                    Solved more than 130+ questions. Demonstrating my problem solving skills
+                    Solved more than 150+ questions. Demonstrating my problem solving skills
                   </p>
                 </div>
               </div>
